@@ -1,0 +1,6 @@
+# fly.toml file generated for patient-sky-7375 on 2023-02-07T08:39:52-05:00
+
+app = "patient-sky-7375"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []

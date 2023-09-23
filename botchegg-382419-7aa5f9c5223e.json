@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "botchegg-382419",
+  "private_key_id": "7aa5f9c5223e706d108f247ee3284fb0c14b4784",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKR+poVNmER6Aq\np2bZweIs4Wf9gibIr8wK10T+62D5o52bQL3kSRrL1NXPnA13PNAbjWqh6yqQw2rT\nL0eSE0m3RHV7+8pzwQzQ+w/Ks8yAvW2qFkq7KHROVKx3zRBb/77knZTVqx7NDbcI\nJuM9gURXXYQwcW5DyC4IxtZsQUGmm0YnJ4kuX3Bxm8NO5pERHENwNPBF8SI/0aXi\nW6u8SOGcWjVLEFslAvqX2raXjMh+CxEUWAMIhItsLgzduR+9AFQEHmbwCCH/hcc0\n0OM4OEJx3CG3B/0Q4ZJr2vHxU1IywDltsmEJb/vhqVhVuEVZpTR8UEtq6HTT++dZ\nHdd05Q0XAgMBAAECggEABMjO3tkQhgQkFS4wpnp8zR8nVJ2VKXUDAfsI5KPdMm2W\nYKHKfASz1gz6lUNov1O+zMM7bO+attU9O+Tn4yjpB77Erc7zgTZlOIIsfVjJ8v37\nNiUt1YYFuwT34vBRcHBsBVmqBHD2NKQCgSmOTjOcnrMvDIhHGXvs652fj7lUm+Pd\nUdkZL2+vFGeM8lY2S+teo6yEzuF5q46U/pNTYeVcucZMjjCEAzy6GaoDS2tFoUhp\nvJzhFjCG7vzSYLiFs/EvYhJ+qzCe2h3xzLqZfoVF2S9nm0jLJ62zAmSL103a1Is1\nblkLDbOlBTnEqJBfpaJOyAxXYQ4cuwBMUVNIMVDL0QKBgQDyf9ceiW27dZ8zULvG\n2XXKbaPLdUmouYfL1YpJmH8OOFeUIEyfcPILxDCquPgZFQTkhKYiGt7GOtfxT1Yq\nrIIaQHoYAnDt28xQjIktv8yWtXZaEzREs5/PL8lirJS+fwVL/whnnvQO0NZXakD8\n0yMpFHEH7/f6LC908M2QQD9ucQKBgQDVit9Ia1x5Zl8h59AEgqaYWTIFH2rSrx8i\npAsC6Q2uvNc5F0xP+8Bh/OI4jc+nAvQz0tvkncdGiUlUqINsBz8iSW8bRYCJv1iy\n8RQg5cWzF5GHlG9aBLG0KF+asEqNjwb7xkfXb+KDkokReqVw64WG1IEjxZr7pwSH\naSfpkM2IBwKBgHZyYRXGVLXqxt8ewQlosHM2yHmZiWgDb0PtwsUd2nmMpaJxgFuk\npGWA57CL9orxzFj+PdOMwmGa3l08vj7L0iSWd8yAbL6RzKNPcbXJ6Fl4ux1WIgKo\nphdiJQCwgVrm2iR7ppROfLE76mX6PVIAozzugiM5YCtvJ6L797xM1W7RAoGBAM/3\nqbFL7gnFa40HyI07+KeS5qYajNyW9Mm13Yt+EXdGLo1JZWbYFerYcDEH214aAF6g\nUst55eOKPMKYQzXocNIhlnWG4MJGekn7g9DuNfZPU8opA7E1tSNx1no+ir0GuJRn\n7Puh2YauJZPCUHGCzs4bE5IVFvVTGZQPE3HjNmftAoGAbW2M7gmExhbyFF2IqGVh\novd3QQ6iUc5KFhPPAv/cQFFFLFqJJnz/awZPdFPR/S7ogUb5DvMcK1oXBQiJrFZY\nedUbq1aEo5H2RNpZmDmGOOpgVbzTAeDUVE021g3bTd1Zvx4l6xKDo7wRyqijx4Ss\nAzyqSLHXZzB0EP2OocpY8Uw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chegg-442@botchegg-382419.iam.gserviceaccount.com",
+  "client_id": "113816516940150257784",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chegg-442%40botchegg-382419.iam.gserviceaccount.com"
+}

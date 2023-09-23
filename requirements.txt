@@ -1,0 +1,10 @@
+boto3
+telegram
+requests
+pyrogram
+bs4
+oauth2client
+siaskynet
+python-telegram-bot
+gspread
+jinja2
